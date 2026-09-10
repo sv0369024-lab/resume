@@ -33,7 +33,7 @@ Highly motivated Computer Science student with hands-on experience building full
 ---
 
 ## 🎓 EDUCATION
-### Maharishi Institute of Technology and Sciences (MIPS), Kanpur
+### Maharana Institute of Professional Studies (MIPS), Kanpur
 * **Degree:** Bachelor of Technology in Computer Science & Engineering (AKTU) | *Expected: 2028*
 * **Academic Performance:** Maintained a strong foundational aggregate of **73.85%** marks.
 * **Core Subjects:** Data Structures & Algorithms, Computer Networks, DBMS, Operating Systems.
